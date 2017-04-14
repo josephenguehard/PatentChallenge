@@ -6,4 +6,4 @@ The goal of this data challenge is to classify european patents that were grante
 I used the XGBoost classifier to do this task. I also one hot encoded most of the categorical features, and undertook some specific transformations for a few other features.
 
 # Result
-I achieved a score of 0.7185 (AUC). This model was ranked fiths among 71 participants.
+I achieved a score of 0.7185 (AUC). This model was ranked 5th among 71 participants.
